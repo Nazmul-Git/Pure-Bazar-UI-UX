@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix PureBazar Omnichannel Admin \u0026 POS",
+  "description": "Enterprise Offline Retail Management System with Central Warehouse, POS Billing, ProbashiHNR Shareholder Wallet Integration, Vendor Ledger, and Financial Accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
